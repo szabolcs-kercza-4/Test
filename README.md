@@ -1,4 +1,5 @@
-# Test for uploading Thesis
+# Pályamű replikálása
+
 ## Jira Service Management autómatizációk importálása
 1. System Settings
 2. Automation -> Global automation
