@@ -9,7 +9,7 @@
 ## Postman asztali alkalmazás
 1. Fájl -> Import
 
-## PowerPlatform
+## Power Platform
 1. make.powerapps.com
 2. Solutions
 3. Import solution
